@@ -23,7 +23,7 @@ DEVICE_PATH := device/motorola/payton
 TARGET_OTA_ASSERT_DEVICE := payton
 
 # Display
-TARGET_SCREEN_DENSITY := 420
+TARGET_SCREEN_DENSITY := 480
 
 # FM
 BOARD_HAVE_QCOM_FM := true
